@@ -5,4 +5,12 @@
 * Gem - mailer
 * Addon - heroku sendgrid
 * depolyment heroku
+
+##Project Goals
+* Form
 * 
+
+
+##Gem List
+* bootstrap-sass
+* mail_form
